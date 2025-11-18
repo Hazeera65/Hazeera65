@@ -3,143 +3,107 @@
   <img src="https://komarev.com/ghpvc/?username=Hazeera65&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=500&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hazeera+B+👋;Full+Stack+Developer;Software+Development+Engineer+%28SDE%29;AI+%2F+ML+Developer;Competitive+Programmer" />
-</h1>
+<h1 align="center">👋 Hello, I'm <b>Hazeera B</b></h1>
 
 <p align="center">
-<a href="https://github.com/Hazeera65"><img src="https://img.shields.io/badge/GitHub-Hazeera65-black?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/hazeera-babu-892b96290/"><img src="https://img.shields.io/badge/LinkedIn-Hazeera-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:hazeerababu446@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=600&color=4A90E2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Developer;Software+Development+Engineer+(SDE);Competitive+Programmer;Tech+Enthusiast" />
 </p>
 
 ---
 
-# 🚀 About Me  
-- 💻 Full Stack Developer (React, Node.js, Express, MongoDB, Supabase)  
+## 🌟 **About Me**
+- 💻 Full Stack Developer (React • Node.js • Express • MongoDB • Supabase)  
 - 👩‍💻 SDE with strong CS fundamentals  
-- 🤖 AI/ML Developer working on LSTM, CNN, NLP, Transformers  
-- 🎯 Competitive Programmer (LeetCode + CodeChef)  
-- 🥇 10+ Hackathon Achievements  
-- 📡 Love solving real-world problems using technology  
+- 🤖 Passionate AI/ML Developer (LSTM • CNN • NLP • Transformers)  
+- 🎯 Active Competitive Programmer (LeetCode • CodeChef)  
+- 🚀 10+ Hackathon achievements  
+- 🔍 Exploring Real-time AI Apps + System Design  
+- 📫 Reach me at: **hazeerababu446@gmail.com**
 
 ---
 
-# 🏆 Major Hackathon Achievements  
-Here are ALL your hackathons, beautifully listed:
-
-### ✔️ **AI MedX 2025 (IISc Bangalore)** — 🥈 **2nd Prize**  
-### ✔️ **TNWISE 2025 (TANCAM)** — 🏅 **Special Prize**  
-### ✔️ **Tech Tide Challenge** — Rank **167**  
-### ✔️ **BlockDAG 2025** — **Finalist**  
-### ✔️ **BuildFest 2025 (Google Cloud + FlutterFlow)** — **Finalist**  
-### ✔️ **TN Police Hackathon (TN Govt)** — **Finalist**  
-### ✔️ **Sparkathon (Walmart)** — **Participation**  
-### ✔️ **FSQ Hack (Foursquare)** — **Finalist**  
-### ✔️ **Agentic AI (Google)** — **Participation**  
-### ✔️ **Suraksha Hackathon (Canara Bank)** — **Finalist**
-
-🔥 *These achievements will impress recruiters immediately.*
-
----
-
-# ⚡ Tech Stack  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,figma,postman,tensorflow&theme=light" />
+## 🤝 **Connect With Me**
+<p align="left">
+<a href="https://github.com/Hazeera65"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/hazeera-babu-892b96290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://leetcode.com/u/Hazeera_06/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"></a>
+<a href="https://www.codechef.com/users/hazeerabcse"><img src="https://img.shields.io/badge/CodeChef-6A4028?style=for-the-badge&logo=codechef"></a>
 </p>
 
 ---
 
-# 🧠 LeetCode Stats & Animations
+## 🛠️ **Tech Stack**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,html,css,figma,postman,tensorflow" />
+</p>
 
-### 🚀 Key Stats  
-- ✔️ **761+ Problems Solved**  
-- ✔️ **Acceptance Rate: 60.44%**  
-- ✔️ **Easy:** 400  
-- ✔️ **Medium:** 335  
-- ✔️ **Hard:** 26  
+---
+
+## 🏆 **Major Hackathon Achievements**
+✔ 🥈 **AI MedX 2025 – IISc Bangalore** — 2nd Prize  
+✔ 🏅 **TNWISE 2025 – TANCAM** — Special Prize  
+✔ 🔥 **Tech Tide Challenge** — Rank 167  
+✔ 🚀 **BlockDAG 2025** — Finalist  
+✔ 🌐 **BuildFest (Google Cloud + FlutterFlow)** — Finalist  
+✔ 👮 **TN Police Hackathon** — Finalist  
+✔ 🛡 **Suraksha Hackathon – Canara Bank** — Finalist  
+✔ 🛰 **FSQ Hack – Foursquare** — Finalist  
+✔ 💡 Sparkathon (Walmart) — Participation  
+✔ 🤖 Agentic AI (Google) — Participation  
+
+---
+
+## 🧠 **LeetCode Stats**
+### 📈 Key Numbers
+- ✔ **761+ Problems Solved**  
+- ✔ **Acceptance Rate:** 60.44%  
+- ✔ Easy: 400 | Medium: 335 | Hard: 26  
 - 🔥 **Active Days:** 265  
-- 🔥 **Streak:** 27 days  
+- 🔥 **Max Streak:** 27 days  
+- 📅 **1,484 submissions in 1 year**  
 - 🏅 **Badges:** 5  
-- 📅 **1,484 submissions in last 1 year**
 
----
-
-## 📊 **LeetCode Heatmap (Auto-Updated)**  
+### 🔥 LeetCode Card (Auto Updated)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hazeera_06?theme=light&ext=activity&animation=true" width="90%">
+  <img src="https://leetcard.jacoblin.cool/Hazeera_06?theme=light&ext=activity" />
 </p>
 
 ---
 
-## 🏅 LeetCode Badges  
+## ⚡ **CodeChef Stats**
 <p align="center">
-  <img src="https://img.shields.io/badge/Rating-1723-blue?style=for-the-badge&logo=leetcode">
-  <img src="https://img.shields.io/badge/Problems%20Solved-761+-yellow?style=for-the-badge&logo=leetcode">
-  <img src="https://img.shields.io/badge/Badges-5-green?style=for-the-badge&logo=leetcode">
+  <img src="https://img.shields.io/badge/Rating-1318-brown?style=for-the-badge&logo=codechef">
 </p>
 
 ---
 
-# ⚡ CodeChef Stats  
-- ⭐ Rating: **1318**  
-- 🌍 Global Rank: **8018**  
-- 🎯 Solved: **275+**  
-- 🏅 Badges: Gold + Silver  
+## 📊 **GitHub Stats**
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hazeera65&show_icons=true&theme=default&rank_icon=github" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Hazeera65&theme=default" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-1318_Rating-brown?style=for-the-badge&logo=codechef">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazeera65&layout=compact&theme=default" />
 </p>
 
 ---
 
-# 📁 Featured Projects
-
-### 🧭 **Travel_Mate** – React Native + Supabase + AI  
-Smart travel assistant with real-time recommendations & maps.
-
-### 📈 **Stock Price Prediction** – LSTM + Streamlit  
-LSTM model trained on years of stock dataset with indicators.
-
-### 🛡️ **ADSHIELD** – NLP + OCR + Gemini  
-AI that detects scam social-media ads & phishing.
-
----
-
-# 📊 GitHub Stats (Animated)
-
+## 🐍 **Contribution Snake**
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hazeera65&show_icons=true&theme=transparent&rank_icon=github">
-  <img height="170" src="https://streak-stats.demolab.com?user=Hazeera65&theme=default">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazeera65&layout=compact&theme=transparent">
+  <img src="https://raw.githubusercontent.com/Hazeera65/Hazeera65/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
 
-# 🏅 GitHub Badges
+## ✨ **Random Dev Quote**
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Hazeera65?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/github/stars/Hazeera65?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/github/commit-activity/y/Hazeera65?style=for-the-badge&color=green">
-  <img src="https://img.shields.io/badge/Repositories-40+-blue?style=for-the-badge">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
 
 ---
 
-# 🌐 Connect  
+## ❤️ **Thanks for visiting!**
 <p align="center">
-<a href="https://linkedin.com/in/hazeera-babu-892b96290"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/Hazeera_06"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
-<a href="https://www.codechef.com/users/hazeerabcse"><img src="https://img.shields.io/badge/CodeChef-Brown?style=for-the-badge&logo=codechef"></a>
-<a href="mailto:hazeerababu446@gmail.com"><img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-<p align="center">
-  <b>✨ Thanks for visiting my profile ✨</b>
+  <b>✨ Keep Coding • Keep Learning • Keep Building ✨</b>
 </p>
