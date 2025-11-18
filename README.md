@@ -45,9 +45,28 @@
 ---
 
 # 🛠️ Tech Stack
+
+<!-- Icon-Based Skills -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,html,css,figma,postman,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,html,css,figma,postman,tensorflow" />
 </p>
+
+---
+
+### 🌐 **Languages**
+`C++` • `Java` • `Python` • `JavaScript`
+
+### 🧩 **Full Stack Development**
+`React.js` • `Node.js` • `Express.js` • `HTML5` • `CSS3`
+
+### 🤖 **AI / Machine Learning**
+`TensorFlow` • `Keras` • `NumPy` • `Pandas`
+
+### 🗄️ **Databases**
+`MySQL` • `MongoDB` • `Supabase`
+
+### ⚙️ **Developer Tools**
+`Git` • `GitHub` • `Postman` • `Figma` • `ServiceNow`
 
 ---
 
@@ -65,9 +84,9 @@
 
 ---
 
-# 🧠 LeetCode — Auto Updating Stats (Stable)
+# 🧠 LeetCode 
 
-### 📌 1) LeetCode Activity + Stats (Very stable)
+### 📌 1) LeetCode Activity 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Hazeera_06?theme=light&ext=activity" width="88%" />
 </p>
@@ -95,7 +114,7 @@
 
 ---
 
-# 📊 GitHub Stats (Clean + Attractive)
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazeera65&theme=github" />
 </p>
