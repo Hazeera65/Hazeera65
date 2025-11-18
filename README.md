@@ -88,7 +88,7 @@
 
 ### 📌 1) LeetCode Activity 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Hazeera_06?theme=light&ext=activity" width="88%" />
+  <img src="https://leetcard.jacoblin.cool/Hazeera_06?theme=light&ext=activity" width="70%" />
 </p>
 
 ### 📌 2) LeetCode Badges (Always works)
